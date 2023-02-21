@@ -21,6 +21,69 @@ export default function Feed() {
             img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
             text: "What an amazing view!",
             timestamp: "5 hours ago"
+        },
+        {
+            id: 3,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
+        },
+        {
+            id: 4,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
+        },
+        {
+            id: 5,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
+        },
+        {
+            id: 6,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
+        },
+        {
+            id: 7,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
+        },
+        {
+            id: 8,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
+        },
+        {
+            id: 9,
+            name: "Jacob Achorn",
+            username: "jacobachorn",
+            userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+            img: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            text: "What an amazing view!",
+            timestamp: "5 hours ago"
         }
     ]
     
